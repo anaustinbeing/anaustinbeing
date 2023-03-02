@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome! I do projects, and I push them here.
+Welcome! I do projects, and I push them here. Latest: GPT-3 based chatbot with voice input and output.
 
 - :computer: I'm an experienced software developer who is currently exploring the AI :robot: field.
 - :heartbeat: Loves everything about Python.
